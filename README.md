@@ -17,7 +17,7 @@
 联系微信：seaosky
 
 <p align="center" >
- <img src="https://bluestear.gitee.io/sunphp-web/wechat.jpg" alt="联系微信" width="350px">
+ <img src="名片.png" alt="联系微信" width="350px">
 </p>
 
 
