@@ -17,7 +17,7 @@
 联系微信：seaosky
 
 <p align="center" >
- <img src="名片.png" alt="联系微信" width="350px">
+ <img src="wx.png" alt="联系微信" width="350px">
 </p>
 
 
